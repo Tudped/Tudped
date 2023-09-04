@@ -1,5 +1,11 @@
 # 👋 Welcome to my portfolio 📁
 
+## Data Analytic
+
+  * [Exploratory Data Analysis](https://github.com/Tudped/Exploratory_analysis)
+  * [Machine Learning](https://github.com/Tudped/Machine_Learning)
+  * [Segmentation Analysis](https://github.com/Tudped/Segmentation_analysis)
+
 <!--
 **Tudped/Tudped** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
