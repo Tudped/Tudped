@@ -1,6 +1,8 @@
 # 👋 Welcome to my portfolio 📁
 
-## Data Analytic
+## Data Analytics
+
+### My projects
 
   * [Exploratory Data Analysis](https://github.com/Tudped/Exploratory_analysis)
   * [Machine Learning](https://github.com/Tudped/Machine_Learning)
